@@ -1,0 +1,11 @@
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\RestSharp.dll
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Json.NET.Web.dll
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+c:\users\gsamant\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
