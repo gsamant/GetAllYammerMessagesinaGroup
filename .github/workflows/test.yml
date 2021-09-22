@@ -2,7 +2,8 @@ name: Weekly Sync
 
 on: 
   schedule:
-  - cron: ’15 12 * * *'
+  - cron: '15 12 * * 3'
+
   
   workflow_dispatch:
   
